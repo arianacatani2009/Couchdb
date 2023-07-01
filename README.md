@@ -18,6 +18,9 @@ Paso 4
 Verficar que todos esten subido a la base de datos
 ![image](https://github.com/arianacatani2009/Couchdb/assets/134402331/3d608813-5cb9-4d53-8325-3830682e3a1a)
 En el video que hemos subido en youtube y mandado el link podemos verficar de una mejor manera como subimos el documento
+Paso 5
+Hemos creado la funcion busqueda
+![image](https://github.com/arianacatani2009/Couchdb/assets/134402331/0b6b9a4e-b1e8-42fe-a930-b4ee0c623836)
 Nuestra observacion del couch DB:
 Es para que funcione tanto como la máquina servidor y la cliente deben tener desactivados los firewalls.
 
